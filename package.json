@@ -1,0 +1,26 @@
+{
+  "name": "bienes-raices",
+  "version": "1.0.0",
+  "description": "Proyecto node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darioyucra/bienes-raices.git"
+  },
+  "keywords": [
+    "MVC",
+    "Pug",
+    "Tailwind",
+    "MySQL",
+    "Sequelize"
+  ],
+  "author": "Dario Yucra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darioyucra/bienes-raices/issues"
+  },
+  "homepage": "https://github.com/darioyucra/bienes-raices#readme"
+}
